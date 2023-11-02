@@ -1,0 +1,3 @@
+# Nuevo
+Cositas...
+proyecto de prueba con git empezando..
